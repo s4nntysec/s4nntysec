@@ -20,12 +20,6 @@ HTML, CSS, JavaScript, Node.js, React, Next.js
 Information Security:
 AppSec, Penetration Testing, Red Team, SOC N1
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devsamuelsantiago&show_icons=true&theme=dark&bg_color=0d1117&title_color=2C8F5E&icon_color=2C8F5E)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devsamuelsantiago&layout=compact&theme=dark&bg_color=0d1117&title_color=2C8F5E)
-
 ## Where to find me
 
 [LinkedIn](https://www.linkedin.com/in/devsamuelsantiago/)

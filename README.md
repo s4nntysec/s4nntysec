@@ -4,7 +4,7 @@ Technology professional with experience in Fullstack development and Information
 
 I have been working with web development since 2020, using HTML, CSS, JavaScript, Node.js, React and Next.js. This experience allows me to analyze applications in depth, especially from a security perspective.
 
-I have practical experience in AppSec and offensive security, focusing on Red Team (web pentest), identification, exploitation and responsible disclosure of vulnerabilities. I also self-study SOC N1 activities, focusing on monitoring and incident response.
+I have practical experience in AppSec and offensive security, focusing on Red Team (web pentest), identification, exploitation and responsible disclosure of vulnerabilities. I also study SOC activities, focusing on monitoring and incident response.
 
 ## Highlights
 
@@ -18,7 +18,7 @@ Fullstack Development:
 HTML, CSS, JavaScript, Node.js, React, Next.js
 
 Information Security:
-AppSec, Penetration Testing, Red Team, SOC N1
+AppSec, Penetration Testing, Red Team, SOC
 
 ## Where to find me
 

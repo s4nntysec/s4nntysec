@@ -1,24 +1,26 @@
 # Hello
 
-Technology professional with experience in Fullstack development and Information Security.
+Technology professional with experience in Full Stack Development and Cybersecurity, currently working as a **SOC Analyst**.
 
-I have been working with web development since 2020, using HTML, CSS, JavaScript, Node.js, React and Next.js. This experience allows me to analyze applications in depth, especially from a security perspective.
+Since 2020, I have been developing web applications using HTML, CSS, JavaScript, Node.js, React, and Next.js. This background gives me a solid understanding of application architecture and allows me to analyze systems from both development and security perspectives.
 
-I have practical experience in AppSec and offensive security, focusing on Red Team (web pentest), identification, exploitation and responsible disclosure of vulnerabilities. I also study SOC activities, focusing on monitoring and incident response.
+My experience includes Application Security (AppSec), Web Penetration Testing, Red Team activities, vulnerability assessment, exploitation, and responsible disclosure. I also have hands-on experience with **Threat Hunting using FortiSIEM**, monitoring security events, investigating suspicious activities, and supporting incident response in enterprise environments.
 
 ## Highlights
 
-- Practical experience with web and infrastructure vulnerabilities
-- 5 registered CVEs
-- Knowledge of networks, application architecture and security analysis
+* SOC Analyst with experience in security monitoring and incident response
+* Threat Hunting using FortiSIEM
+* Practical experience in Web Penetration Testing and Application Security
+* 5 registered CVEs
+* Knowledge of network security, application architecture, and security analysis
 
 ## Technologies
 
-Fullstack Development:
+**Full Stack Development:**
 HTML, CSS, JavaScript, Node.js, React, Next.js
 
-Information Security:
-AppSec, Penetration Testing, Red Team, SOC
+**Cybersecurity:**
+SOC, Threat Hunting, FortiSIEM, AppSec, Penetration Testing, Red Team, Incident Response, Vulnerability Assessment
 
 ## Where to find me
 
